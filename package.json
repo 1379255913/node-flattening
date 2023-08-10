@@ -1,0 +1,11 @@
+{
+  "name": "node-flattening",
+  "version": "1.0.0",
+  "description": "A package that can analyze dependencies in JavaScript and Vue, and then flatten them into a single folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
